@@ -1,0 +1,23 @@
+<nav class="navbar navbar-expand-lg">
+  <div class="container-fluid">
+    <a class="navbar-brand" [routerLink]= "['']">
+      <img src="assets/cao-educacao.png" width="50" height="50" alt="Logo da CAO Educação">
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+     <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
+      <ul class="navbar-nav">
+        <li class="nav-item text-light">
+          <a class="nav-link text-light" [routerLink]= "['/equipe']">Equipe</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-light" [routerLink]= "['/objetivos']">Objetivos</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-light" [routerLink]= "['/projetos']">Projetos</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>

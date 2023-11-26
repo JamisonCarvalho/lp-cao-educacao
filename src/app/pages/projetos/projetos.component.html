@@ -1,0 +1,13 @@
+<!--app-navbar></app-navbar-->
+<div class="titulo">
+  <h1>Projetos</h1>
+  <img class="icone" src="assets/projeto-marrom.png" alt="Ícone da Equipe">
+</div>
+<div class="overlay"></div>
+
+<div class="row justify-content-center">
+  <div *ngFor="let projeto of listaProjetos">
+    <app-detalhe-projeto [projeto]="projeto"></app-detalhe-projeto>
+  </div>
+</div>
+

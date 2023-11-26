@@ -1,0 +1,12 @@
+<!--app-navbar></app-navbar-->
+<div class="titulo">
+    <h1>Equipe</h1>
+    <img class="icone" src="assets/equipe-marrom.png" alt="Ícone da Equipe">
+</div>
+<div class="overlay"></div>
+<div class="row">
+    <div class="col-sm-6" *ngFor="let funcionario of listaFuncionarios">
+        <app-card [funcionario]="funcionario"></app-card>
+    </div>
+</div>
+  

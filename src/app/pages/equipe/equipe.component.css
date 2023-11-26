@@ -1,0 +1,25 @@
+h1{
+    padding: 20px 0px 20px 10px;
+    margin: 20px 0;
+    font-size: 5rem;
+    color: #F1C513;
+    font-weight: 800;
+}
+
+.overlay{
+    margin: -20px 0 10px 15px;
+    width: 30%;
+    height: 3px;
+    background: linear-gradient(to right, #702826a8, #fff);
+    border-radius: 10px;
+}
+
+.titulo{
+    display: flex;
+    align-items: center;
+}
+
+.icone{
+    padding: 0px 10px;
+    height: 5%;
+}
