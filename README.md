@@ -1,7 +1,9 @@
 # Landing Page da CAO Educação MPRJ
-![Home da página] (src/assets/home lp.png)
-![Página objetivo] (src/assets/objetivolp.png)
-![Página objetivo responsiva] (src/assets/objetivo responsiva lp.png)
+
+<img src="/assets/home lp.png">
+<img src="/assets/objetivoslp.png">
+<img src="/assets/objetivos responsiva lp.png">
+
 ## Descrição
 Uma landing page com uma design minimalista, com uma aparência visual bem intuitiva, completamente responsiva, organizada por seções, que são elas:
 
