@@ -2,6 +2,10 @@
 ## Descrição
 Uma landing page com uma design minimalista, com uma aparência visual bem intuitiva, completamente responsiva, organizada por seções, que são elas:
 
+## Instalação
+Veja o projeto acessando o link abaixo
+https://caoeducacao.vercel.app/
+
 ### Equipe
 Seção criada com informações da *equipe*, cotendo:
 * Card com nome, função ;
